@@ -1,0 +1,5 @@
+After creating the GitHub repository, run these commands:
+
+git remote add origin https://github.com/Raj7442/action-repo.git
+git branch -M main
+git push -u origin main
