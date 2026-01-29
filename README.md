@@ -1,6 +1,6 @@
 # Action Repository
 
-This repository triggers GitHub webhooks for testing webhook integration.
+This repository triggers the GitHub webhooks for testing webhook integration.
 
 ## Purpose
 - Generates Push events when code is pushed
